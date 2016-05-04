@@ -20,7 +20,7 @@ bill-to:
 
 ship-to: 
 items:
-    - part_no:   
+    - part_no: A4786   
         descrip:   Water Bucket (Filled)
         price:     1.47
         quantity:  4
