@@ -1,4 +1,4 @@
---- !clarkevans.com/^invoice
+---
 invoice: 34843
 date   : 2001-01-23
 bill-to: &id001
@@ -27,6 +27,6 @@ comments: >
     Late afternoon is best.
     Backup contact is Nancy
     Billsmer @ 338-4338.
-    ---
+---
 
 # issues-in-repo-playground
