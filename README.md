@@ -1,6 +1,6 @@
 ---
 invoice: 34843
-date   : 2001-01-23
+items   :
  - item: bla1
  - item: bla2
 ---
