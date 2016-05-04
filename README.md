@@ -7,14 +7,14 @@ items   :
 another:
   an1: A
   an2: B
-bill-to:  &id001
+bill-to:
   street: |
             123 Tornado Alley
             Suite 16
   city:   East Centerville
   state:  KS
 
-ship-to:  *id001
+ship-to: 
 ---
 
 # issues-in-repo-playground
