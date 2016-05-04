@@ -30,6 +30,8 @@ items:
       size:      8
       price:     133.7
       quantity:  1
+list:
+  [milk, pumpkin pie, eggs, juice]
 ---
 
 # issues-in-repo-playground
