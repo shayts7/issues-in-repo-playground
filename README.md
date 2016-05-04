@@ -5,8 +5,8 @@ items   :
  - item: bla2
  - blabla3
 another:
-  an1
-  an2
+  an1: A
+  an2: B
 ---
 
 # issues-in-repo-playground
