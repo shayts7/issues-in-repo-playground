@@ -20,10 +20,10 @@ bill-to:
 
 ship-to: 
 items:
-    - part_no:   A4786
-      descrip:   Water Bucket (Filled)
-      price:     1.47
-      quantity:  4
+    - part_no:   
+        descrip:   Water Bucket (Filled)
+        price:     1.47
+        quantity:  4
 
     - part_no:   E1628
       descrip:   High Heeled "Ruby" Slippers
