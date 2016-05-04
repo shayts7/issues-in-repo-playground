@@ -4,7 +4,9 @@ items   :
  - item: bla1
  - item: bla2
  - blabla3
-another: bla
+another:
+  an1
+  an2
 ---
 
 # issues-in-repo-playground
