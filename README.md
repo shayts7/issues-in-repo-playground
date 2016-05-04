@@ -1,4 +1,4 @@
-## Issue fields:
+Issue fields:
 
 ---
 layout: blabla
