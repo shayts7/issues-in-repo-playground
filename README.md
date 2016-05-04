@@ -13,6 +13,10 @@ bill-to:
             Suite 16
   city:   East Centerville
   state:  KS
+  comment: >
+          dssdfsdfsdf
+          sdsdfsdfsd sdfsdfsdfsd
+          dsfsdfsdfsd
 
 ship-to: 
 ---
